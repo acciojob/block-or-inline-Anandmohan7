@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.element {
+    margin-bottom: 20px;
+}
+
+div, p, h1 {
+    background-color: lightgray;
+    padding: 5px;
+    margin: 5px 0;
+}
